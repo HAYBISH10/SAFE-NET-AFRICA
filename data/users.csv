@@ -1,0 +1,4 @@
+username,full_name,email,phone,password_hash,role,email_verified
+Haybish,SAFE-NET Admin,hassanhaybish@gmail.com,,5a5ae1072920f916ee970709abfd05587ab4e3f5d98e080528febf22f23c7846,admin,yes
+Zeynab,Zeinab Salat,zeynab@gmail.com,,8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92,user,yes
+Hassan,Hassan Abdi Ali,hassanissackmohamed172@gmail.com,+254757244172,8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92,user,yes

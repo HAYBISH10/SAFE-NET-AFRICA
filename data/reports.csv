@@ -1,0 +1,6 @@
+timestamp,username,type,probability,label,text,image_path
+2025-11-23T14:20:19.133759,Hassan,phishing,0.0925,✅ Likely Safe (by model),fine,data/evidence/20251123142019_Hassan.png
+2025-11-23T14:31:51.053908,Hassan,toxicity,1.0,🚨 Abusive / Harmful (by model),Fuck You,
+2025-11-23T19:08:10.100555,Hassan,phishing,0.8062,🚨 Suspicious / Possible Phishing,URGENT: Your bank account has been locked. Click here immediately to verify your details: http://fake-bank-secure-login.com,
+2025-11-23T19:08:57.404002,Hassan,phishing,0.0924,✅ Likely Safe (by model),"Hi, just checking if you are still coming to the meeting tomorrow at 2 PM.",
+2025-11-23T19:09:27.226051,Hassan,toxicity,0.1615,✅ Not Strongly Abusive (by model),darling,
